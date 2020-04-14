@@ -27,6 +27,18 @@ Just download the java executable file from [here](https://github.com/frostyaxe/
   
 ## Glimpse of CucuReporter
 
+* Stats Page ![CucuReporter Statistics Page](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/CucuReporter/StatsPage.PNG)
+
+* For Dark Theme Lovers ![CucuReporter Dark Theme](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/CucuReporter/DarkTheme.PNG)
+
+* Feel the power of Charts ![CucuReporter Charts](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/CucuReporter/Graph.PNG)
+  Click on the Caption of the Grid to view charts
+
+* View the Failures details ![CucuReporter Failures](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/CucuReporter/ViewFailures.PNG)
+  To view the error messages. Click on the failed step. ![CucuReporter Failures](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/CucuReporter/Error.PNG)
+  
+
+
 ## Author
 * Abhishek Prajapati ( prajapatiabhishek1996@gmail.com )
 
