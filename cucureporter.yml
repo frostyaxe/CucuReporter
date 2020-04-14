@@ -1,0 +1,7 @@
+project:
+   name: "Frostaxe }>"
+   
+cucumber:
+    - "C:\\Users\\Sangeeta-Laptop\\eclipse-workspace\\photo-workspace\\vaadin-workspace\\CucumberExample\\Cucumber\\target\\report - Copy.json"
+    - "C:\\Users\\Sangeeta-Laptop\\eclipse-workspace\\photo-workspace\\vaadin-workspace\\CucumberExample\\Cucumber\\target\\report.json"
+    - "abhishek"
