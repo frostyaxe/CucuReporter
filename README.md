@@ -37,7 +37,7 @@ Just download the java executable file from [here](https://github.com/frostyaxe/
 ![CucuReporter Charts](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/CucuReporter/Graph.PNG)
   
 
-* View the Failures details 
+* View the Failures details. Click on the "Failures" Tab in the navigation bar.
 ![CucuReporter Failures](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/CucuReporter/ViewFailures.PNG)
  
 * To view the error messages. Click on the failed step. 
