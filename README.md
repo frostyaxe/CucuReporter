@@ -13,10 +13,15 @@ Just download the java executable file from [here](https://github.com/frostyaxe/
 
 ## Usage
 * Download the Jar file from the aforementioned section.
-* Create the YAML file as shown [here](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/cucureporter.yml). Name of the yaml file *MUST* be cucureporter.yml.
+* Create the YAML file as shown [here](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/cucureporter.yml). Name of the yaml file *MUST* be cucureporter.yml and it must be present in the same folder where you have downloaded the jar file.
 * Specify the name of the project in cucureporter.yml file in our case, we have specified "frostaxe".
 * In the yaml file, create a list with the key "cucumber". In that you will have to specify path of Cucumber JSON file(s). It is shown in the example yaml file which is present in this GitHub repository.
+
+## Command 
+* In order to run the application, you will have to run the executable jar file with the below command.
+    * java -jar cucureporter-1.0beta.jar
 
 ## Author
 * Abhishek Prajapati ( prajapatiabhishek1996@gmail.com )
 
+###### Note: Suggestions are always welcome. If you feel anything needs to be added to make this application better. Please feel free to drop me an email @ prajapatiabhishek1996@gmail.com
