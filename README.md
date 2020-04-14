@@ -9,7 +9,7 @@ Cucumber is a test automation tool following the principles of Behavioural Drive
 This project allows you to generate the report in html format and it gets published with the help of spring boot. In order for this to work you must generate a cucumber json report. The project converts the json report into an overview html linking to separate feature files with stats and results.
   
 ## Download and Install
-Just download the java executable file from [here](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/cucureporter-1.0.jar).
+Just download the java executable file from [here](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/cucureporter-1.0beta.jar).
 
 ## Usage
 * Download the Jar file from the aforementioned section.
