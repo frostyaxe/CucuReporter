@@ -13,4 +13,5 @@ Just download the java executable file from [here](https://github.com/frostyaxe/
 
 ## Usage
 * Download the Jar file from the aforementioned section.
-* Create the YAML file as shown [here](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/cucureporter.yml).
+* Create the YAML file as shown [here](https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/cucureporter.yml). Name of the yaml file *MUST* be cucureporter.yml.
+* Specify the name of the project in cucureporter.yml file in our case, we have specified frostaxe.
