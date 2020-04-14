@@ -1,4 +1,4 @@
-# CucuReporter
+ # CucuReporter <img src="https://github.com/frostyaxe/CucuReporter/blob/CucuReporter/1.0beta/CucuReporter/icon.png" width="10%" height="10%">
 
 ## Description
 This spring boot java application is primarily created to read the cucumber json report(s) and create the cucumber report in HTML format. It generates html reports with charts showing the results of cucumber runs. As it is a spring boot application, any user can view the report just by using a URL.
