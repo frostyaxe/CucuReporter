@@ -21,6 +21,10 @@ Just download the java executable file from [here](https://github.com/frostyaxe/
 * In order to run the application, you will have to run the executable jar file with the below command.
     * java -jar cucureporter-1.0beta.jar
 
+## View Report
+* In order to view report, Open the below URL in your web browser.
+  * http://localhost:8080
+
 ## Author
 * Abhishek Prajapati ( prajapatiabhishek1996@gmail.com )
 
